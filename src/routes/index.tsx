@@ -50,7 +50,7 @@ function Home() {
               <ArrowUpRight size={16} className="group-hover:rotate-45 transition-transform" />
             </Link>
             <a
-              href={profile.png}
+              href={profile.resumeUrl}
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center gap-2 rounded-2xl glass px-6 py-3 text-sm font-medium hover:border-primary/40 transition"
