@@ -50,7 +50,7 @@ export function GlobeOrbit() {
         {/* Core sphere with portrait */}
         <div className="absolute inset-[22%] rounded-full glass-strong border-glow overflow-hidden">
           <img
-            src="/profile.jpg"
+            src="/profile.png"
             alt="Harsha Motupalli"
             width={512}
             height={512}
