@@ -10,6 +10,7 @@ export const profile = {
   email: "harshamotupalli99@gmail.com",
   phone: "+91 93918 65179",
   resumeUrl: "/resume.pdf",
+  image: "public/profile.png",
   socials: {
     linkedin: "https://www.linkedin.com/in/harsha-motupalli/",
     github: "https://github.com/HarshaMotupalli",
